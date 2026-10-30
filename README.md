@@ -8,8 +8,10 @@
    ```bash
    git clone https://github.com/MoisesAzevedo/my-stack-chrome-theme.git
    ```
-2. Acesse as extensões do Chrome: 
-   [chrome://extensions](chrome://extensions).
+2. Cole o link abaixo na URL do chrome:
+   ```bash 
+   chrome://extensions
+   ``` 
 3. Ative o **Modo do desenvolvedor**.
 4. Clique em **Carregar sem compactação**.
 5. Selecione a pasta `my-stack-chrome-theme`.
