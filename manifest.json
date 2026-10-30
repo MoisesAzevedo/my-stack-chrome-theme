@@ -1,0 +1,42 @@
+
+{
+  "manifest_version": 3,
+  "name": "My Stack Chrome Theme",
+  "version": "1.5",
+  "description": "Tema inspirado na minha stack pessoal, com cores escuras e detalhes em azul e verde.",
+  "theme": {
+  
+"colors": {
+  "frame": [0, 0, 0],
+  "frame_inactive": [0, 0, 0],
+
+  "toolbar": [0, 0, 0],
+  "omnibox_background": [0, 0, 0],
+  "omnibox_text": [138, 180, 248],
+
+  "background_tab": [48, 48, 48],
+  "background_tab_inactive": [0, 0, 0],
+
+  "tab_text": [138, 180, 248],
+  "tab_background_text": [138, 180, 248],
+  "tab_background_text_inactive": [138, 180, 248],
+
+  "bookmark_text": [138, 180, 248],
+  "toolbar_text": [138, 180, 248],
+
+  "toolbar_button_icon": [80, 200, 120],
+
+  "ntp_background": [0, 0, 0],
+  "ntp_text": [138, 180, 248],
+  "ntp_link": [80, 200, 120]
+},
+
+    "images": {
+      "theme_ntp_background": "images/fundo.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
