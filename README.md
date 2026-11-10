@@ -14,7 +14,7 @@
    ``` 
 3. Ative o **Modo do desenvolvedor**.
 4. Clique em **Carregar sem compactação**.
-5. Selecione a pasta `my-stack-chrome-theme`.
+5. Selecione a pasta raíz `my-stack-chrome-theme-master`.
 
 Pronto! O tema será aplicado automaticamente.
 
